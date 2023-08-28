@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\myAppExcelTest\myAppExcelTest\bin\Debug\myAppExcelTest.exe.config
+C:\Users\danie\source\repos\myAppExcelTest\myAppExcelTest\bin\Debug\myAppExcelTest.exe
+C:\Users\danie\source\repos\myAppExcelTest\myAppExcelTest\bin\Debug\myAppExcelTest.pdb
+C:\Users\danie\source\repos\myAppExcelTest\myAppExcelTest\bin\Debug\myAppExcelTest.xml
+C:\Users\danie\source\repos\myAppExcelTest\myAppExcelTest\obj\Debug\myAppExcelTest.vbproj.AssemblyReference.cache
+C:\Users\danie\source\repos\myAppExcelTest\myAppExcelTest\obj\Debug\myAppExcelTest.vbproj.ResolveComReference.cache
+C:\Users\danie\source\repos\myAppExcelTest\myAppExcelTest\obj\Debug\myAppExcelTest.Form1.resources
+C:\Users\danie\source\repos\myAppExcelTest\myAppExcelTest\obj\Debug\myAppExcelTest.Resources.resources
+C:\Users\danie\source\repos\myAppExcelTest\myAppExcelTest\obj\Debug\myAppExcelTest.vbproj.GenerateResource.cache
+C:\Users\danie\source\repos\myAppExcelTest\myAppExcelTest\obj\Debug\myAppExcelTest.vbproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\myAppExcelTest\myAppExcelTest\obj\Debug\myAppExcelTest.exe
+C:\Users\danie\source\repos\myAppExcelTest\myAppExcelTest\obj\Debug\myAppExcelTest.xml
+C:\Users\danie\source\repos\myAppExcelTest\myAppExcelTest\obj\Debug\myAppExcelTest.pdb
